@@ -1,0 +1,3 @@
+Using this app, the user first selects whether they want to convert from Imperial to Metric or Metric to Imperial. Next, they select whether they are performing a weight, length, or volume conversion. These options were created using radio buttons to ensure that the user can only pick one option; if they change their selection for a previous question, any subsequent choices are reset.
+
+Once they have selected which conversion they would like to perform, the app displays a listbox showing unit options. The user double-clicks their choice, and then textboxes and a "Convert" button pop up. The user enters a number into the left textbox, but cannot change the right textbox. Only when the user clicks "Convert" will the answer show up on the right side. 
